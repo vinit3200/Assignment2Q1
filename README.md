@@ -11,3 +11,5 @@
 - git pull is used to fetch latest updates from current branch
 # git checkout -b:
 - It use to create new branch
+# .gitignore
+- this file is important to ignore all .log files
